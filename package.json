@@ -4,7 +4,7 @@
   "description": "book library server",
   "main": "server.js",
   "scripts": {
-    "statr": "node \"server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
